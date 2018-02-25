@@ -1,0 +1,11 @@
+{
+  "name": "Gordify",
+  "description": "A Slack bot",
+  "repository": "https://github.com/evamillan/slack-bot",
+  "env": {
+    "SLACK_TOKEN": {
+      "description": "Slack bot RTM API token",
+      "required": false
+    },
+  },
+}
